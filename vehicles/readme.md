@@ -19,7 +19,7 @@ We use an electronic form for entering the budget number to which the vehicle mi
 > WEBSITE QR CODE  
 > Open "forms.gle" in Safari
 
-2. Click on the banner, which will take you to the reporting form (if it's your first time visiting the form, you will be asked to log into the UW network with your netID and password.). Select one of the options from the dropdown menus for the following fields
+2. Click on the banner, which will take you to the reporting form (if it's your first time visiting the form, you will be asked to log into the UW network with your netID and password.). Select one of the options from the dropdown menus for the following three fields:
 
 * Driver's name
 
@@ -29,16 +29,23 @@ We use an electronic form for entering the budget number to which the vehicle mi
 
 ![](pics/log_1.png)
 
-4. Enter the date and beginning mileage from the odometer, rounding any fractional tenths of a mile upward to the nearest integer (eg, enter "102.3" as "103". At this point you can enter any value for the "Ending mileage", as you will have to edit this field once your trip is complete.
+4. Enter the date and beginning mileage from the odometer, rounding any fractional tenths of a mile upward to the nearest integer (eg, enter "102.3" as "103"). At this point you can enter any value for the "Ending mileage", as you will have to edit this field once your trip is complete.
 
 ![](pics/log_2.png)
 
-5. When you are done entering the above information, click the blue **SUBMIT** button.
-
-## Trip completion
-
-Upon completion of your trip, click on the "Edit response" link on the completed form from above.
+5. When you are done entering the above information, click the blue **SUBMIT** button. You should see the following completed form:
 
 ![](pics/edit_response.png)
 
+## Trip completion
+
+Upon completion of your trip, click on the "Edit response" link on the completed form from above. Enter the ending mileage, again rounding up any fractional miles to the next greater integer.
+
+## Paper alternative
+
+If you should encounter any problems with using the electronic mileage form, please complete one of the paper forms inside the clipboard. As soon as possible following your return, please give the paper record to Verna.
+
 ## Receipts
+
+Place any receipts you have for gas, parking, ferries, etc inside the clipboard until you return to SAFS. As soon as possible following your return, please give any receipts to Verna, along with the appropriate budget information.
+
