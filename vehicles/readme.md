@@ -14,11 +14,14 @@ We use an electronic form for entering the budget number to which the vehicle mi
 
 ![](pics/WACFWRU_vehicle_log.png)
 
-**iPhone users**: Open the camera app on your cell phone and point the camera at the QR code. The camera will automatically recognize the QR code and a banner will appear at the top of the screen that says
+**iPhone users**: Open the camera app on your phone and point the camera at the QR code. The camera will automatically recognize the QR code and a banner will appear at the top of the screen that says
 
-> WEBSITE QR CODE
+> WEBSITE QR CODE  
 > Open "forms.gle" in Safari
 
-2. Click on the banner, which will take you to the reporting form. (If it's your first time visiting the site, you will be asked to log into the UW system with your UW netID and password.)
+2. Click on the banner, which will take you to the reporting form. (If it's your first time visiting the form, you will be asked to log into the UW network with your netID and password.)
+
+![](pics/log_1.png)
+
 
 ## Receipts
