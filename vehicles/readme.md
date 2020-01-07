@@ -49,9 +49,9 @@ We use an electronic form for entering the budget number to which the vehicle mi
 
 Upon completion of your trip, click on the "Edit your response" link on the completed form from above. Enter the actual ending mileage, again rounding up any fractional miles to the next greater integer.
 
-## Paper alternative
+### Paper alternative
 
-If you should encounter any problems with using the electronic mileage form, please complete one of the paper forms inside the clipboard. As soon as possible following your return, please give the paper record to Verna.
+If you should encounter any problems with using the electronic mileage form, please complete one of the old paper records inside the clipboard. As soon as possible following your return, please give the paper record to Verna.
 
 ## Receipts
 
