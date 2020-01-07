@@ -19,17 +19,25 @@ We use an electronic form for entering the budget number to which the vehicle mi
 > WEBSITE QR CODE  
 > Open "forms.gle" in Safari
 
-2. Click on the banner, which will take you to the reporting form. (If it's your first time visiting the form, you will be asked to log into the UW network with your netID and password.)
+2. Click on the banner, which will take you to the reporting form (if it's your first time visiting the form, you will be asked to log into the UW network with your netID and password.). Select one of the options from the dropdown menus for the following fields
+
+* Driver's name
+
+* Budget Number & Name
+
+* Which vehicle are you using?
 
 ![](pics/log_1.png)
 
-3. Enter any value for the "Ending mileage", as you will have to edit this once your trip is complete.
+4. Enter the date and beginning mileage from the odometer, rounding any fractional tenths of a mile upward to the nearest integer (eg, enter "102.3" as "103". At this point you can enter any value for the "Ending mileage", as you will have to edit this field once your trip is complete.
 
 ![](pics/log_2.png)
 
+5. When you are done entering the above information, click the blue **SUBMIT** button.
+
 ## Trip completion
 
-Upon complettion of your trip, click on the "Edit response" link on the completed form from above.
+Upon completion of your trip, click on the "Edit response" link on the completed form from above.
 
 ![](pics/edit_response.png)
 
