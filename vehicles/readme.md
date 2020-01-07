@@ -19,12 +19,13 @@ We use an electronic form for entering the budget number to which the vehicle mi
 > WEBSITE QR CODE  
 > Open "forms.gle" in Safari
 
-**Android users**: Open the camera app on your phone and point the camera at the QR code. Hold the camera there for 2-3 seconds and see if the camera recognizes the QR code. If so, the camera will automatically recognize the QR code and popup window will appear asking if you want to open the link in Chrome
+**Android users**: Open the camera app on your phone and point the camera at the QR code. Hold the camera there for 2-3 seconds and see if the camera recognizes the QR code. If so, a popup window will appear asking if you want to open the link in Chrome
 
 > Open URL  
-> forms.gle
+> forms.gle  
+>      CANCEL   OK
 
-**If your phone's camera does not recognize the QR code, you will need to download a thrid party app to do so.**
+**If your phone's camera does not recognize the QR code, you will need to download a third party app to do so.**
 
 2. Click on the banner, which will take you to the reporting form (if it's your first time visiting the form, you will be asked to log into the UW network with your netID and password.). Select one of the options from the dropdown menus for the following three fields:
 
