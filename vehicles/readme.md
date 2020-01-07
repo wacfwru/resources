@@ -2,13 +2,13 @@
 
 Here are the instructions for using the Unit's vehicles and logging their mileage.
 
-## Keys and clipboards
+## Keys & clipboards
 
-Each of the Units' vehicles as its own clipboard containing the keys to vehicle and a pen copies of the old paper logs.
+Each of the Units' vehicles as its own clipboard containing the keys to vehicle and a pen and copies of the old paper logs.
 
-## Logging mileage
+## Beginning a trip
 
-We use an electronic form for entering the budget number to which the vehicle mileage should be charged and the beginning and ending mileage. Please follow these steps for entering the appropriate information.
+We use an electronic form for entering the budget number to which the vehicle mileage should be charged and the beginning and ending mileage. Please follow these steps for entering the appropriate information **before you begin driving**..
 
 1. Each vehicle clipboard has the following QR code, which contains a link to the electronic mileage log:
 
@@ -23,12 +23,14 @@ We use an electronic form for entering the budget number to which the vehicle mi
 
 ![](pics/log_1.png)
 
-![](pics/log_2.png)
-
 3. Enter any value for the "Ending mileage", as you will have to edit this once your trip is complete.
 
-4. **Trip completion**. Upon complettion of your trip, click on the "Edit response" link on the completed form
+![](pics/log_2.png)
 
-![](pics/edit response.png)
+## Trip completion
+
+Upon complettion of your trip, click on the "Edit response" link on the completed form from above.
+
+![](pics/edit_response.png)
 
 ## Receipts
