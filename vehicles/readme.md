@@ -23,5 +23,12 @@ We use an electronic form for entering the budget number to which the vehicle mi
 
 ![](pics/log_1.png)
 
+![](pics/log_2.png)
+
+3. Enter any value for the "Ending mileage", as you will have to edit this once your trip is complete.
+
+4. **Trip completion**. Upon complettion of your trip, click on the "Edit response" link on the completed form
+
+![](pics/edit response.png)
 
 ## Receipts
