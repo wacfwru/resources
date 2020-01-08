@@ -10,7 +10,9 @@ Each of the Units' vehicles as its own clipboard containing the keys to vehicle 
 
 We use an electronic form for entering the budget number to which the vehicle mileage should be charged and the beginning and ending mileage. Please follow these steps for entering the appropriate information **before you begin driving**..
 
-**STEP 1**. Each vehicle clipboard has the following QR code, which contains a link to the electronic mileage log:
+#### STEP 1
+
+Each vehicle clipboard has the following QR code, which contains a link to the electronic mileage log:
 
 ![](pics/WACFWRU_vehicle_log.png)
 
@@ -31,7 +33,9 @@ Click "OK", which will take you to the reporting form (if it's your first time v
 
 **Note**: If your phone's camera does not recognize the QR code, you will need to download a third party app to do so.
 
-**STEP 2**. Select one of the options from the dropdown menus for the following three fields:
+#### STEP 2
+
+Select one of the options from the dropdown menus for the following three fields:
 
 * Driver's name
 
@@ -41,11 +45,15 @@ Click "OK", which will take you to the reporting form (if it's your first time v
 
 ![](pics/log_1.png)
 
-**STEP 3**. Enter the date and beginning mileage from the odometer, rounding any fractional tenths of a mile upward to the nearest integer (eg, enter "102.3" as "103"). At this point you can enter any value for the "Ending mileage", as you will have to edit this field once your trip is complete.
+#### STEP 3
+
+Enter the date and beginning mileage from the odometer, rounding any fractional tenths of a mile upward to the nearest integer (eg, enter "102.3" as "103"). At this point you can enter any value for the "Ending mileage", as you will have to edit this field once your trip is complete.
 
 ![](pics/log_2.png)
 
-**STEP 4**. When you are done entering the above information, click the blue **SUBMIT** button. You should see the following completed form:
+#### STEP 4
+
+When you are done entering the above information, click the blue **SUBMIT** button. You should see the following completed form:
 
 ![](pics/edit_response.png)
 
