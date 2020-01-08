@@ -8,9 +8,9 @@ Each of the Units' vehicles as its own clipboard containing the keys to vehicle 
 
 ## Beginning a trip
 
-We use an electronic form for entering the budget number to which the vehicle mileage should be charged and the beginning and ending mileage. Please follow these steps for entering the appropriate information **before you begin driving**..
+We use an electronic form for entering the budget number to which the vehicle mileage should be charged and the beginning and ending mileage. Please follow these steps for entering the appropriate information **before you begin driving**.
 
-#### STEP 1
+### STEP 1
 
 Each vehicle clipboard has the following QR code, which contains a link to the electronic mileage log:
 
@@ -33,7 +33,7 @@ Click "OK", which will take you to the reporting form (if it's your first time v
 
 **Note**: If your phone's camera does not recognize the QR code, you will need to download a third party app to do so.
 
-#### STEP 2
+### STEP 2
 
 Select one of the options from the dropdown menus for the following three fields:
 
@@ -45,13 +45,13 @@ Select one of the options from the dropdown menus for the following three fields
 
 ![](pics/log_1.png)
 
-#### STEP 3
+### STEP 3
 
 Enter the date and beginning mileage from the odometer, rounding any fractional tenths of a mile upward to the nearest integer (eg, enter "102.3" as "103"). At this point you can enter any value for the "Ending mileage", as you will have to edit this field once your trip is complete.
 
 ![](pics/log_2.png)
 
-#### STEP 4
+### STEP 4
 
 When you are done entering the above information, click the blue **SUBMIT** button. You should see the following completed form:
 
@@ -61,11 +61,11 @@ When you are done entering the above information, click the blue **SUBMIT** butt
 
 Upon completion of your trip, click on the "Edit your response" link on the completed form from above. Enter the actual ending mileage, again rounding up any fractional miles to the next greater integer.
 
-### Paper alternative
-
-If you should encounter any problems with using the electronic mileage form, please complete one of the old paper records inside the clipboard. As soon as possible following your return, please give the paper record to Verna.
-
 ## Receipts
 
 Place any receipts you have for gas, parking, ferries, etc inside the clipboard until you return to SAFS. As soon as possible following your return, please give any receipts to Verna, along with the appropriate budget information.
+
+## Paper alternative
+
+If you should encounter any problems with using the electronic mileage form, please complete one of the old paper records inside the clipboard. As soon as possible following your return, please give the paper record to Verna.
 
