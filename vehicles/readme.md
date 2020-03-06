@@ -47,25 +47,25 @@ Select one of the options from the dropdown menus for the following three fields
 
 ### STEP 3
 
-Enter the date and beginning mileage from the odometer, rounding any fractional tenths of a mile upward to the nearest integer (eg, enter "102.3" as "103"). At this point you can enter any value for the "Ending mileage", as you will have to edit this field once your trip is complete.
+Enter the date and beginning mileage from the odometer, rounding any fractional tenths of a mile upward to the nearest integer (eg, enter "102.3" as "103"). At this point you can *enter any number* for the "Ending mileage", as you will have to edit this field once your trip is complete.
 
 ![](pics/log_2.png)
 
 ### STEP 4
 
-When you are done entering the above information, click the blue **SUBMIT** button. You should see the following completed form:
+When you are done entering the above information, click the **Submit** button. You should see the following confirmation page, the links on which you can use to edit any of your responses, including the ending mileage in **STEP 5** below.
 
 ![](pics/edit_response.png)
 
-You will receive an email from Google with a copy of your responses the various fields. 
+You will also receive an email from Google with a copy of your responses the various fields. Save this for **STEP 5** below.
 
 ### STEP 5: Trip completion
 
-Upon completion of your trip, use either of the following options to edit the ending mileage you used as a placeholder in **STEP 3** above:
+Upon completion of your trip, use either of the following options to edit the temporary ending mileage you used as a placeholder in **STEP 3** above:
 
-* Find the tab/page on your phone's browser app where you enter the above information and click on the "Edit your response" link on the completed form. Enter the actual ending mileage, again rounding up any fractional miles to the next greater integer, and click the **SUBMIT** button.
+* Navigate to the confirmation page from **STEP 4** and click on the **Edit your response** link. Enter the actual ending mileage on the form, again rounding up any fractional miles to the next greater integer, and click the **Submit** button.
 
-* Click on the "Edit response" button at the top of the email confirmation you received after finishing STEP 4 above. Don't forget to click the "Submit" button at the bottom when you are done.
+* Click on the **Edit response** button at the top of the email confirmation you received after finishing **STEP 4** above. Enter the actual ending mileage on the form, again rounding up any fractional miles to the next greater integer, and click the **Submit** button.
 
 ## Receipts
 
