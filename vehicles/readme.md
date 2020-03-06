@@ -57,9 +57,15 @@ When you are done entering the above information, click the blue **SUBMIT** butt
 
 ![](pics/edit_response.png)
 
-## Trip completion
+You will receive an email from Google with a copy of your responses the various fields. 
 
-Upon completion of your trip, click on the "Edit your response" link on the completed form from above. Enter the actual ending mileage, again rounding up any fractional miles to the next greater integer.
+### STEP 5: Trip completion
+
+Upon completion of your trip, use either of the following options to edit the ending mileage you used as a placeholder in **STEP 3** above:
+
+* Find the tab/page on your phone's browser app where you enter the above information and click on the "Edit your response" link on the completed form. Enter the actual ending mileage, again rounding up any fractional miles to the next greater integer, and click the **SUBMIT** button.
+
+* Click on the "Edit response" button at the top of the email confirmation you received after finishing STEP 4 above. Don't forget to click the "Submit" button at the bottom when you are done.
 
 ## Receipts
 
